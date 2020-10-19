@@ -1,0 +1,12 @@
+.article-list
+{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.article-list-item
+{
+    margin-top: 20px;
+}

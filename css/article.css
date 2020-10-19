@@ -1,0 +1,87 @@
+article
+{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ffffff;
+    padding-bottom: 8px;
+}
+
+.article-header
+{
+    border-left: 5px solid #000000;
+    padding-left: 5em;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/*日期*/
+.article-date
+{
+    float: right;
+    margin-right: 30px;
+    color: #707070;
+    text-decoration: none;
+}
+
+/*日期图标*/
+.article-date-icon
+{
+  width: 16px;
+  height: 16px;
+}
+
+/*标题*/
+.article-title
+{
+    color: #000000;
+    text-decoration: none;
+}
+
+/*分割线*/
+.split-line
+{
+    margin-top: 15px;
+    margin-bottom: 8px;
+    background-color: #000000;
+    height: 1px;
+    width: 100%;
+}
+
+.article-content
+{
+    margin: 30px;
+}
+
+img
+{
+    width: 75%;
+    height: auto;
+    margin-left: 2em;
+}
+
+pre
+{
+    background-color: #000;
+    color: #fff;
+    font-family: Consolas, "Courier New", "monospace";
+    padding-left: 1em;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+
+/*代码块*/
+code
+{
+    font-family: Consolas, "Courier New", "monospace";
+}
+
+/*块引用*/
+blockquote
+{
+    margin: 10px 0px 8px 0px; /*上右下左*/
+    border-left: 5px solid #fce27c;
+    background-color: #eeeeee;
+    padding: 1em;
+}
